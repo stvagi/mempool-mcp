@@ -1,6 +1,7 @@
 # Bitcoin Mempool MCP Server ⚡️
 
-## Done by [AICMP team](https://x.com/AICMPBTC) <img src="https://github.com/stvagi/mempool-mcp/raw/main/src/aicmp.jpg" width="20"/>
+## Collaboration between [AICMP](https://x.com/AICMPBTC) <img src="https://github.com/stvagi/mempool-mcp/raw/main/src/aicmp.jpg" width="20" style="border-radius:50%"/> and [MOOF](https://x.com/MOOF_HQ) <img src="https://github.com/stvagi/mempool-mcp/raw/main/src/moof.png" width="20" style="border-radius:50%"/>
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-org/mempool-mcp?style=social)
 ![npm](https://img.shields.io/npm/dt/mempool-mcp)
 
