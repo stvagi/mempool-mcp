@@ -1,6 +1,6 @@
 # Bitcoin Mempool MCP Server ⚡️
 
-## Done by [AICMP team](https://x.com/AICMPBTC)
+## Done by [AICMP team](https://x.com/AICMPBTC) ![](mempool-mcp/aicmp.jpg){width=20}
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-org/mempool-mcp?style=social)
 ![npm](https://img.shields.io/npm/dt/mempool-mcp)
 
