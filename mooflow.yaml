@@ -1,0 +1,15 @@
+startCommand:
+  port: 3333
+  type: stdio
+  configSchema:
+    type: object
+    properties:
+      mempoolUrl:
+        type: string
+        description: The base URL for the Mempool API (e.g., https://mempool.space/api).
+  commandFunction: |
+    config => ({
+      command: 'node',
+      args: ['build/index.js'],
+      env: { MEMPOOL_URL: config.mempoolUrl }
+    })
