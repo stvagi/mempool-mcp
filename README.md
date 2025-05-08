@@ -9,7 +9,6 @@
 >
 > This MCP server provides AI assistants with real-time access to the [Mempool.space](https://mempool.space) API for mining data, pool stats, and hashrate analytics.
 >
-> 📚 [Tutorial](https://medium.com/@your-handle/build-a-bitcoin-mcp-server-with-mempool-api-and-claude-integration-abc456)
 
 ---
 
